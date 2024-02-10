@@ -1,3 +1,5 @@
+#DETECÇÃO FACIAL
+
 import cv2
 
 # Função para converter o objeto JavaScript em uma imagem OpenCV
